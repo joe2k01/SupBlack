@@ -1,18 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
     <color name="accent">#ff000000</color>
+
+    <color name="action_mode">#ff000000</color>
+    <color name="action_mode_dark">#ff000000</color>
+
+    <color name="btn_green_normal">#ff000000</color>
+
+    <color name="composing">#ff000000</color>
+
+    <color name="link_color_incoming">#ff000000</color>
+    <color name="link_color_outgoing">#ff000000</color>
+
+    <color name="media_message_progress_determinate">#ff000000</color>
+
     <color name="primary">#ff000000</color>
     <color name="primary_dark">#ff000000</color>
-    <color name="primary_voip">#ff000000</color>
     <color name="primary_dark_voip">#ff000000</color>
-    <color name="btn_green_normal">#ff000000</color>
+    <color name="primary_voip">#ff000000</color>
+
     <color name="unread_indicator">#ff000000</color>
-    <color name="action_mode">#ff000000</color>
-    <color name="composing">#ff000000</color>
-    <color name="action_mode_dark">#ff000000</color>
-    <color name="voice_note_scrubber_green">#ff000000</color>
-    <color name="link_color_incoming">#ff000000</color>
+
     <color name="voice_note_scrubber_blue">#ff7d8488</color>
-    <color name="link_color_outgoing">#ff000000</color>
-    <color name="media_message_progress_determinate">#ff000000</color>
+    <color name="voice_note_scrubber_green">#ff000000</color>
 </resources>
