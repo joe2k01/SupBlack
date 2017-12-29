@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#ff000000</color>
+    <color name="primary">#ff000000</color>
+    <color name="primary_dark">#ff000000</color>
+    <color name="primary_voip">#ff000000</color>
+    <color name="primary_dark_voip">#ff000000</color>
+    <color name="btn_green_normal">#ff000000</color>
+</resources>
